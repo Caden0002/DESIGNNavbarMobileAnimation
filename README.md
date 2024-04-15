@@ -14,6 +14,7 @@ https://medium.com/@caden0002/animating-mobile-navbar-modal-with-framer-motion-a
 ## Tech Stack ##
 React<br />
 Tailwind<br />
+Framer Motion<br />
 
 
 
